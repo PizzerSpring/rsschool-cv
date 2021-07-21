@@ -1,1 +1,1 @@
-# rsschool-cv
+https://PizzerSpring.github.io/rsschool-cv/rsschool-cv-html/
